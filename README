@@ -1,0 +1,20 @@
+Name: Demo shop automation using Selenium-Cucumber-POM
+
+Instructions to run the suite: Import the maven project on to your eclipse IDE and run the runner file as a JUnit test.
+
+Reports: 
+1. Extent spark report location - automation-testsuite\test-output\SparkReport
+2. PDF report location - automation-testsuite\test output\PdfReport
+3. Failure scenario sreenshots location- automation-testsuite\embedded1.png
+
+Technologies Used:
+1. Selenium WebDriver with Java Language binding
+2. Cucumber 6.x JVM library
+3. WebDriverManager
+4. JDK 1.8
+5. Maven (Build tool)
+6. Maven Plugins
+7. Cucumber extent report 6 adapter
+8. JUnit 4.x library
+9. GIT HUB - Git Repo
+10. Eclipse (IDE)
